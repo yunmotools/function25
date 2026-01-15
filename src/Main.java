@@ -4,7 +4,9 @@
 
 public class Main {
     public static boolean isPan(String s){
+        String alpha = "abcdefghijklmnopqrstuvwxyz" ;
         for(int i = 0 ; i < s.length() ; i++){
+
 
             if()
         }
